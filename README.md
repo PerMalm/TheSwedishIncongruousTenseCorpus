@@ -6,4 +6,4 @@ The corpus is freely available under the [CC-BY (attribution) license](https://c
 
 Klang, Per. (2022). *Incongruous tense in Swedish: Past and present tense use with deviant time reference* (PhD dissertation, Acta Universitatis Upsaliensis).
 
-For information regarding the corpus structure, see the work above. Contact me at per.klang@nordiska.uu.se, or write an issue here.
+For further information regarding the corpus, see the work above, contact me at per.klang@nordiska.uu.se, or write an issue here.
